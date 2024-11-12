@@ -1,0 +1,19 @@
+{
+    "name": "TeTher"
+    "symbol": "USDT"
+    "decimals": 6,
+    "description": "OVERVIEW
+The Binance Pegged BUSD is a token offered as part of the pegged token service offered by Binance. 
+For this token, Binance locks FDUSD tokens and issues the equivalent amount of Binance-Peg BUSD on 
+corresponding other networks (BNB Chain, Avalanche, Polygon, TRON and Optimism etc)
+Market
+Volume (24H)	:	$550.64
+Market Capitalization	:	$18,323,608.73
+Circulating Supply	:	50,000,000.00 BUSD
+Market Data Source: Coinmarketcap
+
+    "website": "https://tinyurl.com/USDTUSD", 
+    "explorer": "https://bscscan.com/token/0x2cd76cb621CFaCc7554c4AF9c1485DCE6Aeb8a9E", //
+    "status": "active",                       // 
+    "id": "0x2cd76cb621CFaCc7554c4AF9c1485DCE6Aeb8a9E" // 
+}
